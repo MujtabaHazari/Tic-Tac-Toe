@@ -1,2 +1,14 @@
-# Tic-Tac-Toe
-✅ Built my first GUI game using Python: Tic Tac Toe 🎮  This was a fun and challenging step forward in my Python journey. I learned about:  tkinter for GUI elements  Handling user input via buttons  Game logic (like win conditions)  Switching between players
+# 🕹️ Tic Tac Toe in Python (GUI)
+
+A simple 2-player Tic Tac Toe game built using Python's `tkinter` module.
+
+## Features
+- Graphical interface using Tkinter
+- Win detection for all 8 combinations
+- Turn-based UI updates
+- Auto-quit on win with a popup message
+
+## Getting Started
+
+```bash
+python main.py
