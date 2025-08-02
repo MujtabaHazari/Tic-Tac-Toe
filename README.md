@@ -26,7 +26,7 @@ A simple and interactive **Tic Tac Toe** game built with **Python** using the **
    
 🙋‍♂️ Author
 Mujtaba Hazari
-📧 Connect with me on LinkedIn (https://www.linkedin.com/in/mujtaba-hazari-b53a21334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+📧 Connect with me on LinkedIn- https://www.linkedin.com/in/mujtaba-hazari-b53a21334/
 
 ---
 
